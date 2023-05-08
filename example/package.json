@@ -1,0 +1,26 @@
+{
+  "name": "react-waves-example",
+  "homepage": "https://dschoon.github.io/react-waves",
+  "version": "4.0.2",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@dschoon/react-waves": "^4.0.2",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
